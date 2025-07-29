@@ -59,21 +59,24 @@ plugins:
 
 author:
   name   : "Cyberfox01"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/cyberfox01.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://cyberf0x01.github.io"
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cyberf0x01"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://instagram.com/"
+   - label: "HTB"
+      icon: "fab fa-fw fa-htb"
+      url: "https://app.hackthebox.com/profile/79614"
 
 footer:
   links:
