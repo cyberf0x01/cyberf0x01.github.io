@@ -74,9 +74,9 @@ author:
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
-   - label: "HTB"
-      icon: "fab fa-fw fa-htb"
-      url: "https://app.hackthebox.com/profile/79614"
+#   - label: "HTB"
+#      icon: "fab fa-fw fa-htb"
+ #     url: "https://app.hackthebox.com/profile/79614"
 
 footer:
   links:
